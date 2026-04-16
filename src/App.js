@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import Componente from './components/Componente';
 import Propiedades from './components/Propieades';
+import Estado  from './components/Estado';
+import RenderizadoCondicional from './components/RenderizadoCondicional';
+import RenderizadoElementos from './components/RenderizadoElementos';
 import './App.css';
 
 function App() {
@@ -20,10 +23,37 @@ function App() {
           Learn React
         </a>
       <section>
-      <Componente msg="Hola soy un componente desde una prop"/>
+      {/* <Componente msg="Hola soy un componente desde una prop"/> */}
       <hr/>
-      <Propiedades/>
-      </section>
+      {/* <Propiedades/> */}
+      <hr/>
+      {/* <RenderizadoCondicional/> */}
+      <hr/>
+      {/* <RenderizadoCondicional/> */}
+      <hr/>
+      <RenderizadoElementos/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+      <hr/>
+
+      </section>      
       </header>
 
     </div>

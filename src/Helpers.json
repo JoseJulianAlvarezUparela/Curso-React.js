@@ -1,0 +1,10 @@
+[
+  {"id": 1, "nombre": "React", "tipo": "libreria", "lanzamiento": 2013},
+  {"id": 2, "nombre": "Angular", "tipo": "framework", "lanzamiento": 2016},
+  {"id": 3, "nombre": "Vue", "tipo": "framework", "lanzamiento": 2014},
+  {"id": 4, "nombre": "Svelte", "tipo": "framework", "lanzamiento": 2016},
+  {"id": 5, "nombre": "Next.js", "tipo": "framework", "lanzamiento": 2016},
+  {"id": 6, "nombre": "Nuxt.js", "tipo": "framework", "lanzamiento": 2016},
+  {"id": 7, "nombre": "Express", "tipo": "framework backend", "lanzamiento": 2010},
+  {"id": 8, "nombre": "NestJS", "tipo": "framework backend", "lanzamiento": 2017}
+]
