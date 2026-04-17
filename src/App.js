@@ -1,9 +1,13 @@
 import logo from './logo.svg';
-import Componente from './components/Componente';
-import Propiedades from './components/Propieades';
-import Estado  from './components/Estado';
-import RenderizadoCondicional from './components/RenderizadoCondicional';
-import RenderizadoElementos from './components/RenderizadoElementos';
+// import Componente from './components/Componente';
+// import Propiedades from './components/Propieades';
+// import Estado  from './components/Estado';
+// import RenderizadoCondicional from './components/RenderizadoCondicional';
+// import RenderizadoElementos from './components/RenderizadoElementos';
+// import {EventosES6, EventosES7, MasSobreEventos} from './components/Eventos';
+// import Comunicacion from './components/Comunicacion';
+// import CicloVida from './components/CicloVida';
+// import AJAXapi from './components/AJAXapi';
 import './App.css';
 
 function App() {
@@ -23,19 +27,9 @@ function App() {
           Learn React
         </a>
       <section>
-      {/* <Componente msg="Hola soy un componente desde una prop"/> */}
+      {/* <CicloVida/> */}
       <hr/>
-      {/* <Propiedades/> */}
-      <hr/>
-      {/* <RenderizadoCondicional/> */}
-      <hr/>
-      {/* <RenderizadoCondicional/> */}
-      <hr/>
-      <RenderizadoElementos/>
-      <hr/>
-      <hr/>
-      <hr/>
-      <hr/>
+      {/* <AJAXapi/> */}
       <hr/>
       <hr/>
       <hr/>
