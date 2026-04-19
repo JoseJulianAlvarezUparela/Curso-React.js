@@ -8,6 +8,8 @@ import logo from './logo.svg';
 // import Comunicacion from './components/Comunicacion';
 // import CicloVida from './components/CicloVida';
 // import AJAXapi from './components/AJAXapi';
+// import ContadorHocks from './components/ContadorHocks';
+import ScrollHooks from './components/ScrolllHooks';
 import './App.css';
 
 function App() {
@@ -27,9 +29,10 @@ function App() {
           Learn React
         </a>
       <section>
-      {/* <CicloVida/> */}
+        <scrollHooks/>
       <hr/>
-      {/* <AJAXapi/> */}
+      <hr/>
+      <hr/>
       <hr/>
       <hr/>
       <hr/>

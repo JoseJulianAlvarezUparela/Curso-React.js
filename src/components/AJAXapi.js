@@ -24,7 +24,7 @@ export default class AJAXapi extends Component{
                 fetch(e.url)
                 .then(res => res.json())
                 .then((json) => {
-                  console.log(json);  
+                //   console.log(json);  
                   let pokemon = {
                     id: json.id,
                     name: json.name,
